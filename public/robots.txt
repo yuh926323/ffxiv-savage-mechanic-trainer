@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuh926323.github.io/ffxiv-savage-mechanic-trainer/sitemap.xml
